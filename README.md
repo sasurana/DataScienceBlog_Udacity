@@ -1,6 +1,6 @@
 # DataScienceBlog_Udacity
 
-This repository contains work on Project 1 for Data Science Nanodegree.
+This repository contains work on Project 1 for Data Science Nanodegree. [Link to Repo.](https://github.com/sasurana/DataScienceBlog_Udacity)
 
 ## 1. Installations
   a) [Anaconda](https://docs.anaconda.com/anaconda/install/) version 1.9.12
